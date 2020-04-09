@@ -1,0 +1,12 @@
+C:\Users\AeryIce\source\repos\InputFoto\obj\Debug\InputFoto.vbprojAssemblyReference.cache
+C:\Users\AeryIce\source\repos\InputFoto\obj\Debug\InputFoto.FormInputFoto.resources
+C:\Users\AeryIce\source\repos\InputFoto\obj\Debug\InputFoto.Resources.resources
+C:\Users\AeryIce\source\repos\InputFoto\obj\Debug\InputFoto.vbproj.GenerateResource.cache
+C:\Users\AeryIce\source\repos\InputFoto\obj\Debug\InputFoto.vbproj.CoreCompileInputs.cache
+C:\Users\AeryIce\source\repos\InputFoto\bin\Debug\InputFoto.exe.config
+C:\Users\AeryIce\source\repos\InputFoto\bin\Debug\InputFoto.exe
+C:\Users\AeryIce\source\repos\InputFoto\bin\Debug\InputFoto.pdb
+C:\Users\AeryIce\source\repos\InputFoto\bin\Debug\InputFoto.xml
+C:\Users\AeryIce\source\repos\InputFoto\obj\Debug\InputFoto.exe
+C:\Users\AeryIce\source\repos\InputFoto\obj\Debug\InputFoto.xml
+C:\Users\AeryIce\source\repos\InputFoto\obj\Debug\InputFoto.pdb
